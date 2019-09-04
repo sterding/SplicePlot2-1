@@ -31,5 +31,3 @@ python plot.py test_files/chr18:9826168@chr18:9930662-9951252.p pickle settings_
 
 ## Credits
 We would like to thank for the open-sourcing [SplicePlot](https://github.com/wueric/SplicePlot) code.
-
-Please send any questions you might have about the code to [jiajiepeng@nwpu.edu.cn](jiajiepeng@nwpu.edu.cn) or [xhs1892@gmail.com](xhs1892@gmail.com).
